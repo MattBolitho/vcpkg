@@ -1,0 +1,15 @@
+{
+    "name": "galahad",
+    "version": "4.1.0",
+    "port-version": 1,
+    "description": "A library of modern Fortran modules for nonlinear optimization",
+    "homepage": "https://github.com/ralna/GALAHAD",
+    "license": "BSD-3-Clause",
+    "supports": "linux",
+    "dependencies": [
+        {
+            "name": "vcpkg-tool-meson",
+            "host": true
+        }
+    ]
+}
